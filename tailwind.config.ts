@@ -12,6 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      textColor: {
+        DEFAULT: "#000000", // Set the default text color to black
+      },
     },
   },
   plugins: [],
